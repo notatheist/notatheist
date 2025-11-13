@@ -6,5 +6,5 @@
 </div>
 
 <div align="center">
-  <img width="1500" height="500" alt="Screenshot 2025-11-13 at 07 03 50" src="https://github.com/user-attachments/assets/3b0055c3-7eb1-4c1a-a391-54b5cf86f2f9" />
+    <img width="1500" height="500" alt="Screenshot 2025-11-13 at 07 09 03" src="https://github.com/user-attachments/assets/7fdd8368-a0da-4e59-b644-6aa41e643b4b" />
 </div>
