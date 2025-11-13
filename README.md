@@ -6,6 +6,5 @@
 </div>
 
 <div align="center">
-  <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/daf10eb1-d5ac-40b8-95ca-c428b9d4ddee" />
-
+  <img width="1500" height="500" alt="Screenshot 2025-11-13 at 07 03 50" src="https://github.com/user-attachments/assets/3b0055c3-7eb1-4c1a-a391-54b5cf86f2f9" />
 </div>
