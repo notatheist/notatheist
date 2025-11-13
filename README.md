@@ -2,7 +2,7 @@
 
 ### > founder arc
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hardware+Engineer;Money+Maykah" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=70&lines=Hardware+Engineer;DevOps;Money+Maykah" alt="Typing SVG" />
 </div>
 
 <div align="center">
